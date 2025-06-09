@@ -1,6 +1,6 @@
 # TabPFN in Neurosurgery Demo
 
-This repository details the experiments used in our paper to analyze the visualize the performance of TabPFN for neurosurgical outcome prediction with the NSQIP dataset.
+This repository details the experiments used in our paper to analyze the visualize the performance of TabPFN for neurosurgical outcome prediction with the NSQIP dataset. This work was conducted with PriorLabs-TabPFN.
 
 If using this repository, please cite the TabPFN paper (https://www.nature.com/articles/s41586-024-08328-6), the TabPFN extensions repository (https://github.com/PriorLabs/tabpfn-extensions), and our paper.
 
@@ -49,7 +49,7 @@ Please follow along with the example given in the tests. We plan to update this 
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the PriorLabs TabPFN License. 
 
 ## Acknowledgements
 
